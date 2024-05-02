@@ -1,0 +1,53 @@
+body {
+    font-family: 'new times roman', Times, serif;
+    margin: 20px;
+    background-color: #e2c9d8;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: #c43789;
+    box-shadow: 0 2px 5px rgba(218, 107, 194, 0.1);
+    font-family: algerian;
+}
+
+.logo {
+    width: 100px;
+}
+
+.header h1 {
+    margin-left: 20px;
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.intro-image {
+    width: 200px;
+    margin-right: 20px;
+}
+.intro-text h2 {
+    margin-bottom: 10px;
+}
+.course-structure, .resources, .support {
+    border: 1px solid hsl(310, 88%, 74%);
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.course-structure h2, .resources h2, .support h2 {
+    margin-bottom: 10px;
+}
+.resources li, .support dt {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}

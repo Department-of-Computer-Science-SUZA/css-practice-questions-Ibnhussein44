@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #e2f2fd;
+    color:rgb(211, 6, 211);
+}
+
+h1 {
+    font-size: 2em;
+    font-family: algerian;
+}
